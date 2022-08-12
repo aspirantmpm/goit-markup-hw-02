@@ -1,17 +1,21 @@
 body {
   background-repeat: #ffffff;
-  }
-
+}
 ul {
   list-style: none;
 }
-
-.link {text-decoration: none;}
+.link {
+  text-decoration: none;
+}
 
 /* Head */
-.list .link {color: #212121;}
+.list .link {
+  color: #212121;
+}
 
-.list .link:hover {color: #2196F3;}
+.list .link:hover {
+  color: #2196f3;
+}
 
 /* Колір заголовків #212121 #FFFFFF */
 /* Колір тексту та телефону #757575 */
