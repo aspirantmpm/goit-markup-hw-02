@@ -1,5 +1,21 @@
-ul {list-style: none;}
+body {
+  background-repeat: #ffffff;
+  }
+
+ul {
+  list-style: none;
+}
+
+.link {text-decoration: none;}
+
+/* Head */
+.list .link {color: #212121;}
+
+.list .link:hover {color: #2196F3;}
 
 /* Колір заголовків #212121 #FFFFFF */
 /* Колір тексту та телефону #757575 */
 /* Колір кнопок та пошти #2196F3 */
+/* Колір фону секції #F5F4FA */
+/* Колір фону футера #2F303A*/
+/* Посилання у футері rgba(255, 255, 255, 0.6) */
