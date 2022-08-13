@@ -1,4 +1,3 @@
-
 body {
   background-color: #ffffff;
 }
@@ -120,6 +119,10 @@ ul {
 
 /* Sections */
 
+.team {
+  background-color: #F5F4FA;
+}
+
 .section-title {
   font-family: 'Roboto';
   font-style: normal;
@@ -196,11 +199,29 @@ ul {
 
 /* Footer */
 
-footer {background-color: #2F303A;}
+footer {
+  background-color: #2F303A;
+}
 
-/* Колір заголовків #212121 #FFFFFF */
-/* Колір тексту та телефону #757575 */
-/* Колір кнопок та пошти #2196F3 */
-/* Колір фону секції #F5F4FA */
-/* Колір фону футера #2F303A*/
-/* Посилання у футері rgba(255, 255, 255, 0.6) */
+.map {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.footer-mail,
+.footer-tel {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+  text-decoration: none;
+}
