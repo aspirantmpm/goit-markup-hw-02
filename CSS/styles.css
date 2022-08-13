@@ -1,5 +1,6 @@
 body {
   background-color: #ffffff;
+  font-family: 'Roboto';
 }
 
 ul {
@@ -9,22 +10,19 @@ ul {
 /* Logo */
 .logo {
   text-decoration: none;
-  cursor: pointer;
 }
 
 .web {
   font-family: 'Raleway';
-  font-style: normal;
   font-weight: 700;
   font-size: 26px;
   line-height: 31px;
   letter-spacing: 0.03em;
-  color: #2196F3;
+  color: #2196f3;
 }
 
 .studio {
   font-family: 'Raleway';
-  font-style: normal;
   font-weight: 700;
   font-size: 26px;
   line-height: 31px;
@@ -34,15 +32,13 @@ ul {
 
 /* Head links*/
 .list .link {
-  font-family: 'Roboto';
-  font-style: normal;
+
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.02em;
   color: #212121;
   text-decoration: none;
-  cursor: pointer;
 }
 
 .list .link:hover,
@@ -51,33 +47,27 @@ ul {
 }
 
 .header-contact {
-  font-family: 'Roboto';
-  font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.02em;
   color: #757575;
   text-decoration: none;
-  cursor: pointer;
 }
 
 .header-contact:hover,
 .header-contact:focus {
   color: #2196f3;
-  cursor: pointer;
 }
 
 /* Hero */
 
 .hero {
-  background-color: #2F303A;
+  background-color: #2f303a;
   color: #ffffff;
 }
 
 .main-title {
-  font-family: 'Roboto';
-  font-style: normal;
   font-weight: 900;
   font-size: 44px;
   line-height: 60px;
@@ -87,8 +77,6 @@ ul {
 }
 
 .btn {
-  font-family: 'Roboto';
-  font-style: normal;
   font-weight: 700;
   font-size: 16px;
   line-height: 30px;
@@ -100,25 +88,23 @@ ul {
 }
 
 .btn {
-  background-color: #F5F4FA;
-  color: #212121
+  background-color: #f5f4fa;
+  color: #212121;
 }
 
 .btn:hover,
 .btn:focus {
-  background-color: #2196F3;
+  background-color: #2196f3;
   color: #ffffff;
 }
 
 /* Sections */
 
 .team {
-  background-color: #F5F4FA;
+  background-color: #f5f4fa;
 }
 
 .section-title {
-  font-family: 'Roboto';
-  font-style: normal;
   font-weight: 700;
   font-size: 36px;
   line-height: 42px;
@@ -128,8 +114,6 @@ ul {
 }
 
 .benefits-title {
-  font-family: 'Roboto';
-  font-style: normal;
   font-weight: 700;
   font-size: 14px;
   line-height: 16px;
@@ -139,9 +123,6 @@ ul {
 }
 
 .benefits-item {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
   font-size: 14px;
   line-height: 24px;
   letter-spacing: 0.03em;
@@ -149,8 +130,6 @@ ul {
 }
 
 .team-name {
-  font-family: 'Roboto';
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 19px;
@@ -160,9 +139,6 @@ ul {
 }
 
 .team-item {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
   font-size: 16px;
   line-height: 19px;
   text-align: center;
@@ -171,8 +147,6 @@ ul {
 }
 
 .projects-title {
-  font-family: 'Roboto';
-  font-style: normal;
   font-weight: 700;
   font-size: 18px;
   line-height: 36px;
@@ -181,9 +155,6 @@ ul {
 }
 
 .projects-item {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
   font-size: 16px;
   line-height: 30px;
   letter-spacing: 0.03em;
@@ -193,24 +164,18 @@ ul {
 /* Footer */
 
 footer {
-  background-color: #2F303A;
+  background-color: #2f303a;
 }
 
 .map {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
   font-size: 14px;
   line-height: 24px;
   letter-spacing: 0.03em;
-  color: #FFFFFF;
+  color: #ffffff;
   text-decoration: none;
 }
 
 .footer-contact {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
   font-size: 14px;
   line-height: 24px;
   letter-spacing: 0.03em;
