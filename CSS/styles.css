@@ -50,8 +50,7 @@ ul {
   color: #2196f3;
 }
 
-.header-mail,
-.header-tel {
+.header-contact {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 500;
@@ -63,14 +62,8 @@ ul {
   cursor: pointer;
 }
 
-.header-tel:hover,
-.header-tel:focus {
-  color: #2196f3;
-  cursor: pointer;
-}
-
-.header-mail:hover,
-.header-mail:focus {
+.header-contact:hover,
+.header-contact:focus {
   color: #2196f3;
   cursor: pointer;
 }
@@ -214,8 +207,7 @@ footer {
   text-decoration: none;
 }
 
-.footer-mail,
-.footer-tel {
+.footer-contact {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
@@ -224,4 +216,14 @@ footer {
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
+}
+
+.map:hover,
+.map:focus {
+  color: #2196f3;
+}
+
+.footer-contact:hover,
+.footer-contact:focus {
+  color: #2196f3;
 }
