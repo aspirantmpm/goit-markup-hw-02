@@ -10,29 +10,23 @@ ul {
 /* Logo */
 .logo {
   text-decoration: none;
-}
-
-.web {
   font-family: 'Raleway';
   font-weight: 700;
   font-size: 26px;
   line-height: 31px;
   letter-spacing: 0.03em;
+}
+
+.web {
   color: #2196f3;
 }
 
 .studio {
-  font-family: 'Raleway';
-  font-weight: 700;
-  font-size: 26px;
-  line-height: 31px;
-  letter-spacing: 0.03em;
   color: #000000;
 }
 
 /* Head links*/
 .list .link {
-
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
@@ -90,6 +84,7 @@ ul {
 .btn {
   background-color: #f5f4fa;
   color: #212121;
+  border: none;
 }
 
 .btn:hover,
