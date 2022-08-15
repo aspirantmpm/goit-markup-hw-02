@@ -70,7 +70,8 @@ ul {
   text-transform: uppercase;
 }
 
-.btn, .hero-btn {
+.btn,
+.hero-btn {
   font-weight: 700;
   font-size: 16px;
   line-height: 30px;
@@ -106,6 +107,20 @@ ul {
 }
 
 /* Sections */
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
 
 .team {
   background-color: #f5f4fa;
